@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Bank.jepg
 title: "Bank Database"
 date: 2025-04-26
 published: true
