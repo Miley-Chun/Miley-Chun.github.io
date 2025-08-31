@@ -22,18 +22,8 @@ This project was written entirely in C++, which was a main focus for this comput
 
 From this project I was able to learn and grow my knowledge in C and C++. I worked a lot with pointers and was able to get a lot of experience with dereferencing objects and understanding how space is taken in memory. While this was a solo project, I was given a lot of guidence from my professor and TA in this course. This allowed me to smoothly understand the topics we talked about in class and apply them to this project. I was responsible for making 100% of the source code so this assignment seemed very daunting in the beginning. However, it wasn't so bad since we were working on it over the course of 6 weeks which felt like a fair amount of time especially since we were being taught the key concepts in class which gave me just enough information to complete the Bank Database.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is the link to my Github repositry that has some of my source code:
+https://github.com/Miley-Chun/Bank-Database---Source-code
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
