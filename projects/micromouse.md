@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Micromouse2"
 date: 2015
-published: false
+published: true
 labels:
   - Robotics
   - Arduino
