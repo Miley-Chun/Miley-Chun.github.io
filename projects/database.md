@@ -13,7 +13,7 @@ summary: "In my Program Structure class, ICS 212, that I took spring 2025 I work
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/Bank.jpeg" class="img-thumbnail" >
+  <img width="350px" src="../img/Bank.jpeg" class="img-thumbnail" >
 </div>
 
 Over the course of 6 weeks I worked to implement a Bank Database in my ICS212 class. In this program structure class I learned to include a working user interface along with a modifyable database. The database holds numbered bank accounts with information about the holders name, home address and account number. Through the user interface, authority to add, delete, find, and print all account records was available. Users were also given the option to quit, which resulted in closing the program. The user interface would continuously prompt the user with these options until the user would decide to quit and exit the Bank Database. This program saved the data in the Bank Database in a file which would automatically be written to when the program was closed. Upon returning to the program after, the same Database information would be accessed. 
