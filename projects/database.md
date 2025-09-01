@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Bank.jpeg
+image: img/c++.png
 title: "Bank Database"
 date: 2025-04-26
 published: true
