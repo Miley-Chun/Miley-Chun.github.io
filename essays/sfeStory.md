@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/brain.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/brain.jpeg">
 
 Learning about Software Engineering for the first time at UH Manoa has got me thinking about how I view this field, what do I know and what do I want to know. As a Computer Science major I'm aware that SW Engineering is a huge part of computer science, but until recently I wasn't even capable of defining what SW Engineering is. What do Software Engineers do? What even is Software? It feels ridiculous to even write these questions, but they were real questions I had. Even though computer science is something I want to persue I still have so much to learn and I acknowledge that. I am coming into this course with a limited background of Software Engineering. 
 
