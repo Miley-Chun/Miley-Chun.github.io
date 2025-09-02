@@ -91,7 +91,7 @@
       ]
     }
   ],
-  "Certification": [
+  "certifications": [
     {
       "title": "Google Cybersecurity Certificate",
       "date": "2025-07-01",
