@@ -9,7 +9,7 @@ labels:
   - Athletic Learning
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/weights.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/weights.jpeg">
 
 Before this semester I had never even heard of a language called Typescript, but now in ICS 314 we are expected to learn. To get started, we were assigned tutorials to become familiar with this language. The Javascript one did not intimidate me as I have worked with it before in highschool. In fact, it was the first language I learned. On the other hand, Typescript made me nervous. It was something I’d never encountered.  
 
