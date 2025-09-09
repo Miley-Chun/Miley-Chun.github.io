@@ -15,9 +15,9 @@ In life people naturally question things. It’s not uncommon for people to wond
 
 For those in Software Engineering, smart questions are key to creating a successful journey in learning and growing. By asking questions the “smart” way you can save both time and energy. In software engineering time is valuable. In my ICS 314 SWE class we need to spend at least 2 hours a day dedicated to learning. Luckily, asking well-crafted questions gets you answers faster because they give all the info needed to help. This means less back-and-forth and you can move forward quicker. Additionally, smart questions also promote efficient collaboration and group work is inevitable not just in SWE but in life. In team environments, clear questions help colleagues quickly grasp your challenge and contribute effectively. This prevents wasted time on miscommunication and duplicated efforts.
 
-## Example and Non-Example of a Smart Question on Stack Overflow
+<img width="300px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
 
-<img width="150px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
+## Example and Non-Example of a Smart Question on Stack Overflow
 
 ### Bad Example 
 Found on Stack Overflow, this user's issue was encountered when working on a parenthesis checker problem while working in C++. They ran into a segmentation fault when submitting their code even though it was compiling and running correctly locally. Many users pointed out the issue with posting code as an image and emphasized the importance of providing code in text format for better assistance. One user suggested that the segmentation fault might be caused by popping from an empty stack. They recommended checking if the stack has elements before performing a pop operation. Although the person with this inquiry was still able to get an answer, I believe that if they asked a “smarter” question they would have gotten help sooner in the time that they received those critiques.
