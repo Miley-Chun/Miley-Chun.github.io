@@ -17,7 +17,7 @@ For those in Software Engineering, smart questions are key to creating a success
 
 
 
-## Example and Non-Example of a Smart Question on Stack Overflow
+## Example and Non-Example of a Smart Question
 
 <img width="250px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
 
