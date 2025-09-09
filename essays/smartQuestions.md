@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Asking Smart Questions the “Smart” Way"
-date: 2025-09-01
+date: 2025-09-08
 published: true
 labels:
   - Software Engineering
