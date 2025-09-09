@@ -15,6 +15,7 @@ In life people naturally question things. It’s not uncommon for people to wond
 
 For those in Software Engineering, smart questions are key to creating a successful journey in learning and growing. By asking questions the “smart” way you can save both time and energy. In software engineering time is valuable. In my ICS 314 SWE class we need to spend at least 2 hours a day dedicated to learning. Luckily, asking well-crafted questions gets you answers faster because they give all the info needed to help. This means less back-and-forth and you can move forward quicker. Additionally, smart questions also promote efficient collaboration and group work is inevitable not just in SWE but in life. In team environments, clear questions help colleagues quickly grasp your challenge and contribute effectively. This prevents wasted time on miscommunication and duplicated efforts.
 
+
 <img width="300px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
 
 ## Example and Non-Example of a Smart Question on Stack Overflow
