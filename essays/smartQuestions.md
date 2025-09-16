@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-In life people naturally question things. It’s not uncommon for people to wonder about things that they do not know. When they reach out and ask for help there is a smart way and a not so smart way to go about it. In a nutshell, smart questions are clear and specific, they include relevant details and are focused and answerable. Smart questions are most effective when asked respectfully and when they demonstrate that you have made a genuine effort to solve the problem first, reaching out only after exhausting the available resources 
+In life, people naturally question things. It’s not uncommon for people to wonder about things that they do not know. When they reach out and ask for help there is a smart way and a not so smart way to go about it. In a nutshell, smart questions are clear and specific, they include relevant details and are focused and answerable. Smart questions are most effective when asked respectfully and when they demonstrate that you have made a genuine effort to solve the problem first, reaching out only after exhausting the available resources 
 
 ## Why Smart Questions are important for Smart Software Engineers
 
