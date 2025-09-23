@@ -9,7 +9,7 @@ labels:
   - Collaboration
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/soldiers.jpeg">
 
 Rules have the power to influence behavior, shape decisions, and create order within a community. Under the scope of computer science, rules such as the basic coding standards act as the pillars that uphold the expectations of how code should be written and organized. These standards act as a guideline to keep code not only functional but consistent and readable, which is especially important for projects involving multiple moving parts and an array of individuals.
 
