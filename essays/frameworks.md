@@ -25,18 +25,19 @@ For one of my projects, I recreated the home page of the restaurant Rainbow Driv
 
 The Original:
 <div class="text-center p-4">
-  <img width="150px" class="rounded float-start pe-4" src="../img/og1.png">
-  <img width="150px" class="rounded float-start pe-4" src="../img/og2.png">
-  <img width="150px" class="rounded float-start pe-4" src="../img/og3.png">
-  <img width="150px" class="rounded float-start pe-4" src="../img/og4.png">
+  <img width="200px" class="rounded float-start pe-4" src="../img/og1.png">
+  <img width="200px" class="rounded float-start pe-4" src="../img/og2.png">
+  <img width="200px" class="rounded float-start pe-4" src="../img/og3.png">
+  <img width="200px" class="rounded float-start pe-4" src="../img/og4.png">
 </div>
+
 
 My recreation:
 <div class="text-center p-4">
-  <img width="150px" class="rounded float-start pe-4" src="../img/my1.png">
-  <img width="150px" class="rounded float-start pe-4" src="../img/my2.png">
-  <img width="150px" class="rounded float-start pe-4" src="../img/my3.png">
-  <img width="150px" class="rounded float-start pe-4" src="../img/my4.png">
+  <img width="250px" class="rounded float-start pe-4" src="../img/my1.png">
+  <img width="250px" class="rounded float-start pe-4" src="../img/my2.png">
+  <img width="250px" class="rounded float-start pe-4" src="../img/my3.png">
+  <img width="250px" class="rounded float-start pe-4" src="../img/my4.png">
 </div>
 
 In conclusion, while learning frameworks can be tedious, they unlock an entirely new approach to website creation. Before UI frameworks building websites was done from the ground up solely through the work of raw HTML and CSS code. Luckily frameworks today can simplify time-consuming tasks like creating and styling a navbar or testing cross-browser compatibility. Although they are not the end all be all since there's still plenty of customization work that needs to be manually done, they provide a powerful foundation that makes web design faster, more efficient, and more accessible for developers of all levels.
