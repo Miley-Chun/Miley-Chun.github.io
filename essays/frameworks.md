@@ -25,18 +25,18 @@ For one of my projects, I recreated the home page of the restaurant Rainbow Driv
 
 The Original:
 <p align="center">
-  <img width="225px" src="../img/og1.png">
-  <img width="225px" src="../img/og2.png">
-  <img width="225px" src="../img/og3.png">
-  <img width="225px" src="../img/og4.png">
+  <img width="300px" src="../img/og1.png">&nbsp;&nbsp;&nbsp;
+  <img width="300px" src="../img/og2.png">&nbsp;&nbsp;&nbsp;
+  <img width="300px" src="../img/og3.png">
+  <img width="300px" src="../img/og4.png">
 </p>
 
 My recreation:
 <p align="center">
-  <img width="250px" src="../img/my1.png">
-  <img width="250px" src="../img/my2.png">
-  <img width="250px" src="../img/my3.png">
-  <img width="250px" src="../img/my4.png">
+  <img width="300px" src="../img/my1.png">&nbsp;&nbsp;&nbsp;
+  <img width="300px" src="../img/my2.png">&nbsp;&nbsp;&nbsp;
+  <img width="300px" src="../img/my3.png">
+  <img width="300px" src="../img/my4.png">
 </p>
 
 
