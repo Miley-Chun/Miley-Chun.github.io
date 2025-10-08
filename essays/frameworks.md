@@ -24,21 +24,21 @@ UI frameworks offer a faster and more organized way to build websites. Given pre
 For one of my projects, I recreated the home page of the restaurant Rainbow Drive In. Using Bootstrap 5 significantly aided in the process by offering those pre-built button, navbar, and input text box elements. The framework made the organization of the homepage layout much more simplified, which allowed me to distinctly separate each section into their own respective areas. In this project I struggled with class overloading since the experimental aspect involved with attempting to replicate the original version took a lot of fine tuning. Learning how to utilize classes to the fullest is what took me the longest to understand and get used to through practice. Understanding how they interact with each other and how to properly apply them was not easy but in the end it felt satisfying to see my end product. I felt so proud to see how professional it looked. 
 
 The Original:
-<div class="text-center p-4">
-  <img width="200px" class="rounded float-start pe-4" src="../img/og1.png">
-  <img width="200px" class="rounded float-start pe-4" src="../img/og2.png">
-  <img width="200px" class="rounded float-start pe-4" src="../img/og3.png">
-  <img width="200px" class="rounded float-start pe-4" src="../img/og4.png">
-</div>
-
+<p align="center">
+  <img width="225px" src="img/og1.png">
+  <img width="225px" src="img/og2.png">
+  <img width="225px" src="img/og3.png">
+  <img width="225px" src="img/og4.png">
+</p>
 
 My recreation:
-<div class="text-center p-4">
-  <img width="250px" class="rounded float-start pe-4" src="../img/my1.png">
-  <img width="250px" class="rounded float-start pe-4" src="../img/my2.png">
-  <img width="250px" class="rounded float-start pe-4" src="../img/my3.png">
-  <img width="250px" class="rounded float-start pe-4" src="../img/my4.png">
-</div>
+<p align="center">
+  <img width="250px" src="img/my1.png">
+  <img width="250px" src="img/my2.png">
+  <img width="250px" src="img/my3.png">
+  <img width="250px" src="img/my4.png">
+</p>
+
 
 In conclusion, while learning frameworks can be tedious, they unlock an entirely new approach to website creation. Before UI frameworks building websites was done from the ground up solely through the work of raw HTML and CSS code. Luckily frameworks today can simplify time-consuming tasks like creating and styling a navbar or testing cross-browser compatibility. Although they are not the end all be all since there's still plenty of customization work that needs to be manually done, they provide a powerful foundation that makes web design faster, more efficient, and more accessible for developers of all levels.
 
