@@ -25,7 +25,7 @@ For one of my projects, I recreated the home page of the restaurant Rainbow Driv
 
 The Original:
 <img width="150px" class="rounded float-start pe-4" src="../img/og1.png">
-<img width="150px" class="rounded float-start pe-4" src="../img/og2.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/og2">
 <img width="150px" class="rounded float-start pe-4" src="../img/og3.png">
 <img width="150px" class="rounded float-start pe-4" src="../img/og4.png">
 
