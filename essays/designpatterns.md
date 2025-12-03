@@ -27,3 +27,4 @@ Finally, our project also used the MVC-ish, Model View Controller structure. The
 ## Reflection
 Overall, learning about design patterns made me realize that they played an important role in our project, even though we didn’t intentionally decide to utilize them. I was surprised by how naturally these patterns supported our software development. Even as someone is still learning, noticing them showed me how valuable they are for solving common programming problems and keeping projects organized.
 
+*Note: AI used to help brainstorm ideas and improve the flow and clarity of writing.*
