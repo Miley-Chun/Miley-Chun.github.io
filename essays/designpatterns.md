@@ -9,9 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/application-of-design-patterns.jpg">
-
-## What are Design Patterns?
+<img width="350px" class="rounded float-start pe-4" src="../img/application-of-design-patterns.jpg">
 
 Pattern seeking is a natural part of life. Humans have an innate ability to look for and recognize patterns, which is a fundamental part of how we learn, understand the world, and predict future events. This tendency also applies to coding, in that we notice repeating problems and look for solutions that can be reused in the future. This is exactly why design patterns exist in the world of Computer Science. They provide proven ways to solve common problems in programming.
 
