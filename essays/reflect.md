@@ -27,3 +27,5 @@ UI frameworks solve these problems by offering ready-to-use elements and respons
 
 ## Conclusion
 Through ICS 314, I learned that coding standards and UI frameworks are more than just tools, they promote collaboration, efficiency, and maintainability. Coding standards ensure that code is clear and consistent, benefitting both individual developers and teams, while UI frameworks provide reusable structures that streamline development and reduce errors. These concepts show that software engineering is about more than writing code. It is about creating systems and processes that allow developers to work smarter, not just harder. These lessons will be valuable in any software project, not just web applications.
+
+*Note: AI assisted in generating initial brainstorming ideas*
