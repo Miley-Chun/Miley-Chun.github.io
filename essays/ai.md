@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Semester of the AI Takeover"
+title: "The AI Takeover"
 date: 2025-12-12
 published: true
 labels:
@@ -17,57 +17,55 @@ During my college years, the fast-paced environment and challenging coursework m
 
 ## II. Personal Experience with AI
 
->> ##### 1. Experience WODs
->> 
->> At first, I sparingly used AI tools since for the most part I had the ability to work through the experience wods. However, as the exercises became more challenging, involving complex concepts and multiple applications and tools, I began to rely more heavily on Copilot and ChatGPT to keep up with the evolving learning landscape. I mostly used AI to help with debugging when I couldn’t find the solution, or I would take a peek at the video example.
+&nbsp;&nbsp;&nbsp;&nbsp; ##### 1. Experience WODs
+&nbsp;&nbsp;&nbsp;&nbsp; At first, I sparingly used AI tools since for the most part I had the ability to work through the experience wods. However, as the exercises became more challenging, involving complex concepts and multiple applications and tools, I began to rely more heavily on Copilot and ChatGPT to keep up with the evolving learning landscape. I mostly used AI to help with debugging when I couldn’t find the solution, or I would take a peek at the video example.
 
->>> ##### 2. In-class Practice WODs
->>> 
->>> Similar to the previous section about experience wods, I didn’t use AI much at the beginning of the semester. But as time went on, I realized that in order to complete the assignments within the time limit I would need to get help from somewhere. It reached a point where I wasn’t fully understanding the material, as I would often copy parts of the prompt I didn’t know how to solve and have AI generate a solution for me. Other times I would simply use AI as an assist to help me debug.
+&nbsp;&nbsp;&nbsp;&nbsp; ##### 2. In-class Practice WODs
+&nbsp;&nbsp;&nbsp;&nbsp;Similar to the previous section about experience wods, I didn’t use AI much at the beginning of the semester. But as time went on, I realized that in order to complete the assignments within the time limit I would need to get help from somewhere. It reached a point where I wasn’t fully understanding the material, as I would often copy parts of the prompt I didn’t know how to solve and have AI generate a solution for me. Other times I would simply use AI as an assist to help me debug.
 
-> ### 3. In-class WODs
+> ##### 3. In-class WODs
 > 
 > Regarding the official in-class wods since they were weighed so heavily, I found myself under a lot of pressure. Since the difference between an F and an A could be as small as a slight error in output, combined with the fact that we were timed led me to use AI as a crutch. After failing my first two words, I decided that I would sacrifice my understanding of the assignment in order to protect my overall grade. Like the practice wods I would often copy parts of the prompt into AI and use its debugging abilities to fix my code.
 
-> ### 4. Essays
+> ##### 4. Essays
 > 
 > For the essays on this course, I would use AI to check my grammar and the flow of my structure every so often.
 
-> ### 5. Final project
+> ##### 5. Final project
 > 
 > With the final project, I heavily relied on Chatgpt and Copilot while facing problems I had never worked with before. I used Copilot to generate certain parts of my issues to streamline my workflow, allowing me to focus on other, more time-intensive tasks. I also used it to help out with most of my debugging when I would run into page crashes or simple output issues. AI also played a role in helping me brainstorm approaches whenever I was stuck and unsure of what my next step should be.
 
-> ### 6. Learning a concept / tutorial
+> ##### 6. Learning a concept / tutorial
 > 
 > I rarely used AI to help me understand a concept during the learning phase, since I didn’t really allocate time to actually go through the materials posted on the course website. I prioritized other tasks instead, as I found that knowing the materials didn’t significantly impact my performance in the class.
 
-> ### 7. Answering a question in class or in Discord
+> ##### 7. Answering a question in class or in Discord
 > 
 > For answering questions in class or discord, I didn't use AI tools at all. But this is because I never found myself in a situation where I answered a question in either place.
 
-> ### 8. Asking or answering a smart question
+> ##### 8. Asking or answering a smart question
 > 
 > When it came to asking or answering smart questions, I rarely did either, so AI was never used. However, when I did have a question to ask, I didn’t rely on AI, since I already had a clear idea of what I wanted to ask and what I hoped to gain from it.
 
-> ### 9. Coding example
+> ##### 9. Coding example
 > 
 > I never used AI to find a coding example because I was usually able to easily find one through an online recourse.
 
-> ### 10. Explaining code
+> ##### 10. Explaining code
 > 
 > When I needed to look through code to understand what it was doing, I would usually start by looking through it myself. In the case that I am unable to read it, I would just ask AI to explain it to me.
 
-> ### 11. Writing code
+> ##### 11. Writing code
 > 
 > There were times when I had Copilot generate code for me. In these cases, I would typically test the written code, iterating on it and sending more context until I arrived at the solution I needed.
 
-> ### 12. Documenting code
+> ##### 12. Documenting code
 > I never used AI to document my code, as I typically do not engage in code documentation, even though it offers significant benefits.
 
-> ### 13. Quality assurance
+> ##### 13. Quality assurance
 > For most quality assurance issues I would usually take a look at it at first and assess if I could figure it out. If I didn’t know what to do I would use the quick fix option that Copilot offered or I would paste in whatever error it was popping up into the chat. 
 
-> ### 14. Other uses in ICS 314 not listed
+> ##### 14. Other uses in ICS 314 not listed
 > I didn’t find any other uses of AI within ICS314 that are not listed.
 
 ## III. Impact on Learning and Understanding
