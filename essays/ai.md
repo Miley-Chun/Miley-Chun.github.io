@@ -17,13 +17,13 @@ During my college years, the fast-paced environment and challenging coursework m
 
 ## II. Personal Experience with AI
 
-> ### 1. Experience WODs
-> 
-> At first, I sparingly used AI tools since for the most part I had the ability to work through the experience wods. However, as the exercises became more challenging, involving complex concepts and multiple applications and tools, I began to rely more heavily on Copilot and ChatGPT to keep up with the evolving learning landscape. I mostly used AI to help with debugging when I couldn’t find the solution, or I would take a peek at the video example.
+>> ##### 1. Experience WODs
+>> 
+>> At first, I sparingly used AI tools since for the most part I had the ability to work through the experience wods. However, as the exercises became more challenging, involving complex concepts and multiple applications and tools, I began to rely more heavily on Copilot and ChatGPT to keep up with the evolving learning landscape. I mostly used AI to help with debugging when I couldn’t find the solution, or I would take a peek at the video example.
 
-> ### 2. In-class Practice WODs
-> 
-> Similar to the previous section about experience wods, I didn’t use AI much at the beginning of the semester. But as time went on, I realized that in order to complete the assignments within the time limit I would need to get help from somewhere. It reached a point where I wasn’t fully understanding the material, as I would often copy parts of the prompt I didn’t know how to solve and have AI generate a solution for me. Other times I would simply use AI as an assist to help me debug.
+>>> ##### 2. In-class Practice WODs
+>>> 
+>>> Similar to the previous section about experience wods, I didn’t use AI much at the beginning of the semester. But as time went on, I realized that in order to complete the assignments within the time limit I would need to get help from somewhere. It reached a point where I wasn’t fully understanding the material, as I would often copy parts of the prompt I didn’t know how to solve and have AI generate a solution for me. Other times I would simply use AI as an assist to help me debug.
 
 > ### 3. In-class WODs
 > 
