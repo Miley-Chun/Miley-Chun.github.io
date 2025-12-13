@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/ai.jpeg">
+<img width="325px" class="rounded float-start pe-4" src="../img/ai.jpeg">
 
 ## I. Introduction
 During my college years, the fast-paced environment and challenging coursework made AI a steady contributor to my academic success. The same can likely be said for most people nowadays, even those outside academia, where AI has integrated into most fields of productive work. Within the scope of my courses, I primarily use Chatgpt to aid in my understanding of concepts, complete menial tasks, and double-check my work. In Software Engineering, from my experience, I've seen AI tools like GitHub Copilot and Chatgpt easily assist with streamlining tasks such as code generation and debugging.
