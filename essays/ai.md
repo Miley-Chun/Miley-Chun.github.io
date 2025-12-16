@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The AI Takeover"
+title: "AI Takeover"
 date: 2025-12-12
 published: true
 labels:
