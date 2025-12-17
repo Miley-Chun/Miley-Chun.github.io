@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/room.png
+image: img/manoa.jpg
 title: "RoomMatch UHM"
 date: 2025-12-13
 published: true
