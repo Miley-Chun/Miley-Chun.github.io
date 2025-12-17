@@ -22,11 +22,11 @@ RoomMatch UHM is a full-stack web application that I helped develop for my ICS 3
 ## Project Overview
 With RoomMatch UHM once the user creates a login and verifies that they are a UH student through our UH email verification, they are able to explore the application functions which include:
 
--Create/Edit Profile with Lifestyle Preferences
--Private Messaging
--Schedule Calendar Meeting
--Browse Roommate Listings
--Match with compatible profiles based on profile responses
+*Create/Edit Profile with Lifestyle Preferences
+*Private Messaging
+*Schedule Calendar Meeting
+*Browse Roommate Listings
+*Match with compatible profiles based on profile responses
 
 ## Technologies Used
 RoomMatch UHM was built off the Next.js application template which provided a solid framework. From that base, we developed our website on VSCode in conjunction with GitHub to control our individual progress through issue-driven project management and pull request reviews. Neon Postgres was used as our database to hold data such as user profiles, compatibility information, messages, and meetings. Prisma ORM was used for schema modeling and migrations.
