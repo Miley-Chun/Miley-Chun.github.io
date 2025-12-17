@@ -37,4 +37,4 @@ I worked in both frontend and backend development, primarliy focused on data and
 ## What I Learned 
 Through developing RoomMatch UHM, I gained a deeper understanding of how full-stack applications function as an integrated system rather than as isolated front-end and back-end components. I strengthened my knowledge of database design by contributing to the Prisma schema and learning how structured data models support features such as profile matching, messaging, and scheduling. Managing user profile images also taught me how to handle non-text data efficiently, including converting files into a format suitable for database storage and rendering them correctly back to the user.
 
-[See More Here](https://roommatch-uhm.github.io/)
+To See More [Click Here](https://roommatch-uhm.github.io/)
